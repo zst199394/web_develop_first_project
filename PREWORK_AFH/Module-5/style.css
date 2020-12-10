@@ -1,0 +1,35 @@
+/* header */
+h1 {
+    text-align: center;
+}
+.p1 {
+    color : red;
+}
+.p2 {
+    color : blue;
+}
+.p3 {
+    color: green;
+}
+/* paragraph */
+.styledFont {
+    color: green;
+}
+.p4 {
+    font-size: 30px;
+}
+.p5 {
+    font-size: 7px;
+}
+.p6 {
+    text-align: center;
+}
+.p7 {
+    font-weight: bold;
+}
+.p8 {
+    color: orange;
+    font-weight: bold;
+    font-size: 28px;
+}
+/* this is how you do comments in css */
